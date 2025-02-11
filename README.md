@@ -1,2 +1,2 @@
-# doc-summarizer
-nagakirankasi.github.io/doc-summarizer
+# document-summarizer
+## An experiment to summarize documents. Built from scratch using python.
