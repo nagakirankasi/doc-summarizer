@@ -42,5 +42,5 @@ demo.launch(share=True, server_port=int(os.environ['PORT2']))
 
 ### Output API
 
-!/NLP_Gradio_interface.png
+!NLP_Gradio_interface.png
 
