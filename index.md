@@ -8,6 +8,8 @@ The code extracts important sentences from a document by calculating word freque
 * Sentence Scoring – Assigning importance scores to sentences based on term frequency.
 * Summarization – Extracting the most relevant sentences to form a summary.
 
+![Steps](https://github.com/nagakirankasi/doc-summarizer/blob/main/assets/images/document_summarizer_steps.png)
+
 * * *
 
 # Alternative options to create a document summarizer
